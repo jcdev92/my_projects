@@ -3,7 +3,7 @@
     "name": "04-navigatonApp",
     "slug": "04-navigatonApp",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
